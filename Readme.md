@@ -8,13 +8,15 @@ This is a responsive page showing a Grid layout built in HTML and CSS.
 
 <br/>
 
-![desktop](./screenshots/screenshot.png)
+![image](https://github.com/DeeptiDaisy/cssq7-core-ppt/assets/109961309/c6a29724-664c-48a0-829f-7ae443650064)
+
 
 <br/>
 
 ### Mobile Layout:
 
-![mobile](./screenshots/mobile-screenshot.png)
+![image](https://github.com/DeeptiDaisy/cssq7-core-ppt/assets/109961309/f5acd38d-214f-4f02-b796-a9428604f9a2)
+
 
 <br/>
 
